@@ -1,8 +1,11 @@
 <?php
 mb_internal_encoding('UTF-8');
-require $_SERVER["DOCUMENT_ROOT"] . '/login/functions/regfuncs.php';
-$db_files = str_replace('indance', 'db_files', $_SERVER["DOCUMENT_ROOT"]);
+$url_arr = array_filter(explode('/', $_SERVER["DOCUMENT_ROOT"]));
+array_pop($url_arr);
+$url_arr[] = 'db_files';
+$db_files = '/' . implode('/', $url_arr) . '/';
 define('REG_FILE', $db_files . 'regs.json');
+require $_SERVER["DOCUMENT_ROOT"] . '/login/functions/regfuncs.php';
 $existing_regs = file_to_array(REG_FILE);
 $get_regs_with = ['Pramoginiai šokiai'];
 

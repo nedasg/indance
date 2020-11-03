@@ -1,6 +1,9 @@
 <?php
 
-$db_files = str_replace('indance', 'db_files', $_SERVER["DOCUMENT_ROOT"]);
+$url_arr = array_filter(explode('/', $_SERVER["DOCUMENT_ROOT"]));
+array_pop($url_arr);
+$url_arr[] = 'db_files';
+$db_files = '/' . implode('/', $url_arr) . '/';
 
 define('USERS_FILE', $db_files . 'logindance.json');
 define('REG_FILE', $db_files . 'regs.json');
