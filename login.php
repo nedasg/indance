@@ -128,6 +128,9 @@ if (!empty($_POST)) {
         <title>LogINDANCE</title>
     </head>
     <body>
+        <div id="logo-div">
+            <?php require($_SERVER["DOCUMENT_ROOT"] . "/inc/logozone.php"); ?>
+        </div>
         <div class="layout">
             <div class="content-left">
                 <?php if ($show_form): ?>
