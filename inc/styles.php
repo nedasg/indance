@@ -78,25 +78,6 @@
 </div>
 
 <div class="card effect__click">
-<!--  <a rel="external" href="/bachata/vilnius">-->
-  <div class="card__front" style="background: url('/images/flip/flip-front-bachata.png');">
-    <table><tr><td>
-      <span class="card__text">BACHATA</span>
-    </td></tr></table>
-  </div>
-  <div class="card__back" style="">
-    <p class="cardBackMenuTitle">BACHATA</p>
-    <table><tr><td>
-      <span class="card__text">
-        <a rel="external" href="/bachata/vilnius">Nauja grupė Jeruzalėje</a><br>
-      </span>
-    </td></tr></table>
-    <p class="cardBackMenuClose">Slėpti&nbsp&nbsp&nbspX&nbsp&nbsp&nbspUždaryti</p>
-  </div>
-<!--  </a>-->
-</div>
-
-<div class="card effect__click">
 <!--  <a rel="external" href="/vestuves">-->
   <div class="card__front" style="background: url('/images/flip/flip-front-vestuves.png');">
     <table><tr><td>

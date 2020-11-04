@@ -24,7 +24,6 @@
     <tr>
         <td><div class="tmt-div">PRAMOGINIAI<br><span>šokiai</span></div></td>
         <td><div class="tmt-div"><span>Kubietiška<br></span>SALSA</div></td>
-        <td><div class="tmt-div">BAČIATA<br><span>Bachata</span></span></div></td>
         <td><div class="tmt-div">SOLO<br><span>latino</span></div></td>
         <td><a href="/vestuves" rel="external"><div class="tmt-div">VESTUVINIS<br><span>šokis</span></div></a></td>
         <td>
@@ -56,17 +55,11 @@
       <tr><td><div><a href="https://www.youtube.com/user/indancers" rel="external" target="_blank">Youtube</a></div></td></tr>
 </table>
 
-<table id="tmt-bch" class="tmt-submenu">
-      <tr><td><div><a href="/bachata/vilnius" rel="external">Nauji pasiūlymai čia</a></div></td></tr>
-</table>
-
 <table id="tmt-solo" class="tmt-submenu">
       <tr><td><div><a href="/sololatino/vilnius" rel="external">Naujos grupės Vilniuje</a></div></td></tr>
       <tr><td><div><a href="/sololatino" rel="external">Kodėl INDANCE?</a></div></td></tr>
       <tr><td><div><a href="/aira" rel="external">Aira Anužė</a></div></td></tr>
 </table>
 
-<table id="tmt-vest" class="tmt-submenu">
-<!--      <tr><td><div></div></td></tr>-->
-</table>
+<table id="tmt-vest" class="tmt-submenu"></table>
 

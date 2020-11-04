@@ -24,10 +24,9 @@ table.tmt-submenu {display: none; position: absolute; z-index: 1000; margin: 0; 
 table.tmt-submenu tr td div {margin: 5px;}
 table.tmt-submenu tr td div a:hover {text-decoration: underline !important; color: #FAB22A !important;}
 #tmt-pram {margin-left: 15vw;}
-#tmt-salsa {margin-left: calc(25.625vw - 2px);}
-#tmt-bch {margin-left: calc(36.25vw - 4px);}
-#tmt-solo {margin-left: calc(46.875vw - 5px);}
-#tmt-vest {margin-left: calc(57.5vw - 8px);}
+#tmt-salsa {margin-left: calc(27vw - 2px);}
+#tmt-solo {margin-left: calc(39vw - 2px);}
+#tmt-vest {margin-left: calc(50vw - 2px);}
 
 #logo-div {width: 12vw; height: 8vw; position: absolute; margin: -4.5vw 3vw 0 2vw; padding: 0; box-shadow: -1vw 0 0.3vw 0vw #F2F2F2, 1vw 0 0.3vw 0vw #F2F2F2; border: none;}
 #img-logo {width: 12vw; margin: 0; padding: 0; float: left; border: none; background-color: #f2f2f2;}

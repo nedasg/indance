@@ -22,10 +22,9 @@ table.tmt-submenu tr td div a {color: #3f3029 !important;}
 table.tmt-submenu tr td div a:hover {text-decoration: underline !important; text-shadow: -2px -2px 6px #FAB22A, 2px -2px 6px #FAB22A, -2px 2px 6px #FAB22A, 2px 2px 6px #FAB22A;}
 
 #tmt-pram {margin-left: 20vw;}
-#tmt-salsa {margin-left: calc(30.125vw - 2px);}
-#tmt-bch {margin-left: calc(39vw - 1px);}
-#tmt-solo {margin-left: calc(48vw + 3px);}
-#tmt-vest {margin-left: calc(62.5vw - 8px);}
+#tmt-salsa {margin-left: calc(30.125vw + 2px);}
+#tmt-solo {margin-left: calc(40.75vw - 6px);}
+#tmt-vest {margin-left: calc(48vw + 3px);}
 
 #big-left {width: 100%; float: left; margin: 0; padding: 0; background-color: transparent;}
 
